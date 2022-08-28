@@ -27,3 +27,7 @@
 .box:hover {
     box-shadow: 0 0 15px #888;
 }
+
+.box:active {
+    box-shadow: 0 0 8px #888;
+}
